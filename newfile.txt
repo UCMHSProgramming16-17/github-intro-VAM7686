@@ -1,4 +1,4 @@
-f0squared =0
+0squared =0
 1squared =1
 2squared =4
 3squared =9
