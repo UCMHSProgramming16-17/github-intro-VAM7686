@@ -1,0 +1,10 @@
+1 hello
+2 bonjour
+3 hola
+4 como estas
+5 tambien
+6 apple
+7 banana
+8 orange
+9 annoying orange
+10 things
